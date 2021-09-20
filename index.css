@@ -1,0 +1,52 @@
+.heading{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+.head{
+color: rgb(250, 92, 19);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: italic;
+}
+#ordered{
+    color: rgb(141, 6, 6);
+    line-height: 35px;
+}
+#unordered{
+    color: red;
+    font-family: monospace;
+    letter-spacing: 2px;
+    line-height: 20px;
+
+}
+.para{
+    color: rgba(201, 44, 5, 0.884);
+}
+.bg{
+    background-color: yellow;
+}
+.prep{
+    background-color: yellow;
+    font-style: italic;
+}
+.bt{
+    font-style:oblique;
+    background-color: turquoise;
+    height: 40px; width: 120px;
+    border-style:solid;
+    border-radius: 30px;
+    border-color: violet;
+    
+}
+.bt2{
+    color:rgb(141, 6, 6);
+    cursor:pointer;
+    text-decoration: none;
+}
+.bt3{
+    text-decoration: none;
+    color: seagreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: inherit;
+    background-color: lightblue;
+}
